@@ -1,1 +1,1 @@
-# learngit  readme 20180601
+# learngit  试试中文
